@@ -1,0 +1,9 @@
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.Fody.CopyLocal.cache
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\Usb Check.exe.config
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\Usb Check.exe
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\Usb Check.pdb
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\Usb Check.exe
+C:\Users\oran\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\Usb Check.pdb
